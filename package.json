@@ -19,6 +19,7 @@
     "prettier": "prettier --write index.js"
   },
   "dependencies": {
+    "expo": "^28.0.0",
     "react-native-fs": "^2.10.14"
   },
   "devDependencies": {
